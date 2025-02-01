@@ -2,7 +2,7 @@
   "name": "dany-test",
   "version": "1.0.0",
   "description": "simple package test",
-  "main": "dist/index.cjs",
+  "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
